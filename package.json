@@ -1,0 +1,21 @@
+{
+  "name": "prayer_timings_calculator_api_v2",
+  "version": "1.0.0",
+  "description": "Minimal prayer timings calculator",
+  "main": "ts-node index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [
+    "Nabil",
+    "Mahsud"
+  ],
+  "author": "Nabil Mahsud",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
